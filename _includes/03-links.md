@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[este es un link de un repo](https://github.com/github/training-kit)
